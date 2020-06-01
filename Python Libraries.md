@@ -11,3 +11,4 @@
 * import mpl_toolkits.axes_grid1.inset_locator as mpl_il
 * import matplotlib.animation as animation
 * from random import shuffle
+* from pandas.plotting import scatter_matrix
