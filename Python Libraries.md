@@ -12,3 +12,4 @@
 * import matplotlib.animation as animation
 * from random import shuffle
 * from pandas.plotting import scatter_matrix
+* import seaborn as sns
