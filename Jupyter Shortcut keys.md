@@ -1,4 +1,4 @@
-## Jupyter Notebook Shortcut Keys
+## Jupyter Notebook Necessary Shortcut Keys
 * `A` insert cell above
 * `B` insert cell below
 * `C` copy the cell
