@@ -14,3 +14,4 @@
 * from pandas.plotting import scatter_matrix
 * import seaborn as sns
 * from sklearn.model_selection import train_test_split
+* from matplotlib import cm
