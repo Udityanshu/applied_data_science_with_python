@@ -15,3 +15,5 @@
 * import seaborn as sns
 * from sklearn.model_selection import train_test_split
 * from matplotlib import cm
+* from mpl_toolkits.mplot3d import Axes3D
+* from sklearn.neighbors import KNeighborsClassifier
