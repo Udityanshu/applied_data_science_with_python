@@ -17,3 +17,12 @@
 * from matplotlib import cm
 * from mpl_toolkits.mplot3d import Axes3D
 * from sklearn.neighbors import KNeighborsClassifier
+* from adspy_shared_utilities import plot_fruit_knn
+* from sklearn.preprocessing import MinMaxScaler
+* from sklearn.datasets import make_classification, make_blobs
+* from matplotlib.colors import ListedColormap
+* from sklearn.datasets import load_breast_cancer
+* from adspy_shared_utilities import load_crime_dataset
+* from sklearn.datasets import make_regression
+* from sklearn.datasets import make_friedman1
+* from adspy_shared_utilities import plot_two_class_knn
