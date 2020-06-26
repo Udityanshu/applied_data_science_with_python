@@ -1,0 +1,51 @@
+## Python libraries which is being used over the courses
+
+import pandas as pd
+import numpy as np
+import matplotlib as mpl
+from matplotlib.backends.backend_agg import FigureCanvasAgg
+from matplotlib.figure import Figure
+%matplotlib notebook
+import matplotlib.pyplot as plt
+import matplotlib.gridspec as gridspec
+import mpl_toolkits.axes_grid1.inset_locator as mpl_il
+import matplotlib.animation as animation
+from random import shuffle
+from pandas.plotting import scatter_matrix
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from matplotlib import cm
+from mpl_toolkits.mplot3d import Axes3D
+from sklearn.neighbors import KNeighborsClassifier
+from adspy_shared_utilities import plot_fruit_knn
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.datasets import make_classification, make_blobs
+from matplotlib.colors import ListedColormap
+from sklearn.datasets import load_breast_cancer
+from adspy_shared_utilities import load_crime_dataset
+from sklearn.datasets import make_regression
+from sklearn.datasets import make_friedman1
+from adspy_shared_utilities import plot_two_class_knn
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import Ridge
+from sklearn.linear_model import Lasso
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.svm import LinearSVC
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import validation_curve
+from sklearn.datasets import load_iris
+from sklearn.tree import DecisionTreeClassifier
+from adspy_shared_utilities import plot_decision_tree
+from adspy_shared_utilities import plot_feature_importances
+from sklearn.datasets import load_digits
+from sklearn.dummy import DummyClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import roc_auc_score
+from sklearn.metrics import roc_curve, auc
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import GridSearchCV
+
